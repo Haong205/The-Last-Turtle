@@ -1,4 +1,4 @@
 # The-Last-Turtle
-Privacy Policy
 
-This is the first game I created as a personal project to learn and explore the many features provided by Unity. I used procreate to make most of the graphics and characters. 
+This is the first game I created as a personal project to learn and explore the many features provided by Unity. This is a casual game, you play the game as a turtle, the objective of the game is to capture the jellyfishes, while adoivding the trashes coming at you and the oil spill rushing toward you. I used procreate to make most of the graphics and characters, and Unity's Animator to animate the character. through the making of this game, I learn how to operate the particle system in Unity, and Shader Graph to make an appealing and aesthetically relaxing game for the player. 
+
